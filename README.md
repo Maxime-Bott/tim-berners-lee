@@ -16,7 +16,7 @@ This exercise was carried out during my web developer courses at BeCode Liège.
 
 ## How did I do it ?
 
-I used flexboxes for all my containers.
+I used flexbox for all my containers.
 I had to look for documentation to be able to interact with my logos (I had never used bootstrap).
 I took the initiative to add transitions for better rendering.
 
